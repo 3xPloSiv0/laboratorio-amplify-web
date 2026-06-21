@@ -24,3 +24,25 @@ h1 {
   background-color: #eef3ff;
   border-radius: 10px;
 }
+
+.beneficios {
+  text-align: left;
+}
+
+.beneficios h2 {
+  text-align: center;
+}
+
+.beneficios ul {
+  max-width: 430px;
+  margin: 15px auto 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.beneficios li {
+  margin: 8px 0;
+  padding: 8px 12px;
+  background-color: white;
+  border-radius: 8px;
+}
